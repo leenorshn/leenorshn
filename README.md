@@ -1,6 +1,4 @@
-### Hi there 👋
-My Name is Victor shukuru a FullStack developer living in DRC, cofonder and CEO of vallordev
-three years of building solutions and learning coding, I'm now good in  backend development with
-Nodejs,Typescript, GO, and Javascript. For frontend I'm working well with Vuejs and Flutter.
-We are building better api in Rest, Graphql and learning grpc and microservice.
+## Victor Shukuru
+### @leenor
+Software Engineer, designer and problem solver, experienced in backend development with a full master of NodeJS and MongoDB, Prismam Typescript, Java, Flutter, Firebase and Google Cloud with an background experience of over 3 years with small business and big companies. Now CEO of VallorDev with a strong focus on Microservices design and local problem solving using technology facilities. 
 
