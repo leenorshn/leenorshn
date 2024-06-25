@@ -2,8 +2,9 @@
 ### @leenorshn
 Good in: 
 1. Android-kotlin jetpack compose,
-2. Golang & graphql
+2. Swift & SwiftUI
 3. Mongodb
-4. Flutter mobile
+4. AppWriter contributor
+5. Golang & graphql
 
 
